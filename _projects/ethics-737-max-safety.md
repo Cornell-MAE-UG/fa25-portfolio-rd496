@@ -31,6 +31,6 @@ The 737 MAX crisis demonstrates that ethical failure in engineering is rarely th
 
 ##### References
 
-[1] National Transportation Safety Board (NTSB), Aircraft Accident Report: Lion Air Flight 610 and Ethiopian Airlines Flight 302, 2019.
-[2] U.S. House Committee on Transportation and Infrastructure, Final Committee Report on the Design, Development & Certification of the Boeing 737 MAX, 2020.
-[3] ASME, Code of Ethics of Engineers, ASME Policy P-15.7.
+[1] National Transportation Safety Board (NTSB), Aircraft Accident Report: Lion Air Flight 610 and Ethiopian Airlines Flight 302, 2019.<br>
+[2] U.S. House Committee on Transportation and Infrastructure, Final Committee Report on the Design, Development & Certification of the Boeing 737 MAX, 2020.<br>
+[3] ASME, Code of Ethics of Engineers, ASME Policy P-15.7.<br>
