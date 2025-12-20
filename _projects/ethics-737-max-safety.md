@@ -1,11 +1,9 @@
 ---
-layout: project
-title: Engineering Ethics in Safety-Critical Systems
+layout: boeing
+title: Ethics in Safety-Critical Systems
 description: A technical reflection analyzing how ethical failures arise in complex engineering systems through design tradeoffs, organizational incentives, and regulatory structures
-image: /assets/images/Boeing-737.jpg
+image: /assets/images/Boeing-737.png
 ---
-
-## Ethical Responsibility in Complex Engineering Systems
 
 Engineering ethical failures are rarely the result of a single negligent decision. In complex systems, they more often emerge from interactions between technical design choices, organizational incentives, and regulatory structures. From an ASME perspective, ethical responsibility must be evaluated not only at the level of individual intent, but also in terms of how engineering decisions are constrained and reviewed. The Boeing 737 MAX case illustrates how technically reasonable decisions, when made within flawed systems, can collectively violate the obligation to hold paramount the safety, health, and welfare of the public.
 
